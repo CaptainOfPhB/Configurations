@@ -6,7 +6,7 @@
 - [Better Comments](https://github.com/aaron-bond/better-comments)
 - [Beautify css/sass/scss/less](#)
 - [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)
-- [iDebugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) 
+- [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) 
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
 - [ESLint](https://github.com/Microsoft/vscode-eslint)
 - [Git Merger](https://github.com/shaharkazaz/vscode-git-merger)
