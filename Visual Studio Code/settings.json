@@ -1,0 +1,21 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Operator Mono",
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontSize": 13,
+    "files.autoSave": "afterDelay",
+    "cssrem.rootFontSize": 37.5,
+    "window.zoomLevel": 0,
+    "editor.fontLigatures": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontWeight": "100",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontWeightBold": "100",
+    "explorer.confirmDelete": false,
+    "search.followSymlinks": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme"
+}
