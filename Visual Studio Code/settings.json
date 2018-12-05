@@ -17,5 +17,15 @@
     "search.followSymlinks": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Material Theme"
+    "workbench.colorTheme": "Material Theme",
+    "explorer.confirmDragAndDrop": false,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "typescript": "jsx",
+        "typescriptreact": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true
 }
