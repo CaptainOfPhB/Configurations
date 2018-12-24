@@ -25,3 +25,4 @@
 - [VSCode Great Icons](#)
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons)
 - [vscode-styled-jsx](https://github.com/iFwu/vscode-styled-jsx)
+- [Turbo Console Log](https://github.com/Chakroun-Anas/turbo-console-log)
