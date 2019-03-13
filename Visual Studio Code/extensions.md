@@ -7,19 +7,19 @@
 - [Beautify css/sass/scss/less](https://github.com/git@github.com:mike7515/code-beautifier)
 - [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)
 - ~~[Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug)~~
-- ~~[ES7 React/Redux/GraphQL/React-Native snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
-- ~~[ESLint](https://github.com/Microsoft/vscode-eslint)
+- ~~[ES7 React/Redux/GraphQL/React-Native snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)~~
+- ~~[ESLint](https://github.com/Microsoft/vscode-eslint)~~
 - [Git Merger](https://github.com/shaharkazaz/vscode-git-merger)
 - [GitLens — Git supercharged](https://github.com/eamodio/vscode-gitlens)
-- ~~[markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
+- ~~[markdownlint](https://github.com/DavidAnson/vscode-markdownlint)~~
 - [Material Icon Theme](ihttps://github.com/PKief/vscode-material-icon-theme.git)
 - [Material Theme](https://github.com/equinusocio/vsc-material-theme.git)
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 - [Polacode](https://github.com/octref/polacode)
-- ~~[React-Native/React/Redux snippets for es6/es7](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippetsj)
+- ~~[React-Native/React/Redux snippets for es6/es7](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippetsj)~~
 - [Sass Lint](https://github.com/glen-84/vscode-sass-lint.git)
 - [TODO Highlight](https://github.com/wayou/vscode-todo-highlight.git)
-- ~~[TSLint](https://github.com/Microsoft/vscode-tslint.git)
+- ~~[TSLint](https://github.com/Microsoft/vscode-tslint.git)~~
 - [Vetur](https://github.com/vuejs/vetur)
 - [Vim](https://github.com/VSCodeVim/Vim.git)
 - [VSCode Great Icons](#)
@@ -30,8 +30,8 @@
 - [Beautify](https://github.com/HookyQR/VSCodeBeautify)
 - [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight)
 - [CSS Peek](https://github.com/pranaygp/vscode-css-peek.git)
-- ~~[IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)
+- ~~[IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)~~
 - [minapp](https://github.com/wx-minapp/minapp-vscode)
-- [Prettier - Code formatter](https://github.com/prettier/prettier-vscode.git)
+- [Prettier - Code formatter](https://github.com/prettier/prettier-vscode.git)~~
 - Quokka.js
 - Trailing Spaces
