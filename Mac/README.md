@@ -2,8 +2,39 @@
 
 - Dropbox
 - Pocket
-- Dash
+- ~~Dash~~
 - CodeRunner
-- Alfred
+- Alfred3
 - Magnet
 - Lanan
+- QQ 音乐
+- 网易云音乐
+- Webstorm
+- VSCode
+- Sublime
+- Postman
+- ~~MockingBot（墨刀）~~
+- ~~SketchBook~~
+- Sketch
+- iTerm2
+- Termius
+- Spark
+- ~~MWeb~~
+- 石墨文档
+- Typora
+- GitBook Editor
+- TickTick
+- QQ
+- WeChat
+- 微信开发者工具
+- Sourcetree2
+- PopClip
+- Paste
+- CheatSheet
+- ~~Karabiner-Elements~~
+- ~~Skitch~~
+- ~~1Password~~
+- OBS
+- ~~TeamViewer~~
+- zoom.us
+- Sip
