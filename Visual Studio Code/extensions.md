@@ -15,7 +15,7 @@
 - [Material Icon Theme](ihttps://github.com/PKief/vscode-material-icon-theme.git)
 - [Material Theme](https://github.com/equinusocio/vsc-material-theme.git)
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
-- [Polacode](https://github.com/octref/polacode)
+- ~~[Polacode](https://github.com/octref/polacode)~~
 - ~~[React-Native/React/Redux snippets for es6/es7](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippetsj)~~
 - [Sass Lint](https://github.com/glen-84/vscode-sass-lint.git)
 - [TODO Highlight](https://github.com/wayou/vscode-todo-highlight.git)
@@ -33,5 +33,5 @@
 - ~~[IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)~~
 - [minapp](https://github.com/wx-minapp/minapp-vscode)
 - [Prettier - Code formatter](https://github.com/prettier/prettier-vscode.git)
-- Quokka.js
+- ~~Quokka.js~~
 - Trailing Spaces
