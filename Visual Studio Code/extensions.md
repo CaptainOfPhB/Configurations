@@ -32,6 +32,6 @@
 - [CSS Peek](https://github.com/pranaygp/vscode-css-peek.git)
 - ~~[IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)~~
 - [minapp](https://github.com/wx-minapp/minapp-vscode)
-- [Prettier - Code formatter](https://github.com/prettier/prettier-vscode.git)~~
+- [Prettier - Code formatter](https://github.com/prettier/prettier-vscode.git)
 - Quokka.js
 - Trailing Spaces
