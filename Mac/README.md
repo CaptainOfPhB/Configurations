@@ -3,9 +3,9 @@
 - Dropbox
 - Pocket
 - ~~Dash~~
-- CodeRunner
+- ~~CodeRunner3~~
 - Alfred3
-- Magnet
+- ~~Magnet~~
 - Lanan
 - QQ 音乐
 - 网易云音乐
@@ -26,11 +26,12 @@
 - TickTick
 - QQ
 - WeChat
+- 搜狗输入法
 - 微信开发者工具
 - Sourcetree2
 - PopClip
 - Paste
-- CheatSheet
+- ~~CheatSheet~~
 - ~~Karabiner-Elements~~
 - ~~Skitch~~
 - ~~1Password~~
