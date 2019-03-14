@@ -39,3 +39,11 @@
 - ~~TeamViewer~~
 - zoom.us
 - Sip
+- Bear
+- Kindle
+- Irvue
+- 截图
+- Manico
+- Tayasui Sketches
+- MindNode5
+- XMind
