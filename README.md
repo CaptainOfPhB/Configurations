@@ -1,14 +1,8 @@
 # Config
 
-A collection of my programming tool configuration.
+A collection about the configuration of my computer and programming tools.
 
-## Collection
+## Change Log 
 
-- [Visual Studio Code](https://code.visualstudio.com/): a fashion JavaScript editor
-- [WebStorm](https://www.jetbrains.com/webstorm/): a powerful JavaScript IDE(Integrated Development Environment) 
-- [Sublime](https://www.sublimetext.com/): a useful code editor
-- [iTerm2](https://www.iterm2.com/): macOS Terminal Replacement
+- The **VSCode** configuration file has been removed because its configuration file and the list of installed plugins can be synchronized via a plugin named "**Sync Setting**".
 
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
