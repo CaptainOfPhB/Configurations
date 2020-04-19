@@ -1,6 +1,15 @@
-# Awesome Chrome extension
+## In Use
 
-- React Developer Tool
-- 掘金
+- Adblock
+- React Developer Tools
+- MobX Developer Tools
+- Redux DevTools
+- Material DevTools Setting
+- Juejin
 - JSON Viewer
+- Octotree
+- Vimium
+
+## Optional
+
 - Pocket
