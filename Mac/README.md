@@ -1,49 +1,58 @@
-# Awesome Mac software
+## Must be installed
 
-- Dropbox
-- Pocket
-- ~~Dash~~
-- ~~CodeRunner3~~
-- Alfred3
-- ~~Magnet~~
-- Lanan
-- QQ 音乐
-- 网易云音乐
+- Chrome
 - Webstorm
 - VSCode
-- Sublime
-- Postman
-- ~~MockingBot（墨刀）~~
-- ~~SketchBook~~
-- Sketch
-- iTerm2
-- Termius
-- Spark
-- ~~MWeb~~
-- 石墨文档
-- Typora
-- GitBook Editor
-- TickTick
-- QQ
+- QQMusic
+- NeteaseMusic
 - WeChat
-- 搜狗输入法
-- 微信开发者工具
-- Sourcetree2
+- DingTalk
+- Dropbox: cloud disk
+- Alfred: search everywhere
+- iTerm2: macOS Terminal Replacement
+- Spark: smart mail client
+- TickTick: todo list, task and schedule management
+- Sougou Input: input source
+- Karabiner: keyboard modifier
+- ClashX: VPN client
+- ShdowsocksX-NG: VPN client for spare
+- Unsplash: Wallpaper client
+- Spectacle: Mac window management
+
+## Optional
+
+- QQ
+- Sip
+- WPS
+- OBS
+- Jietu
+- Shimo
+- Typora
+- Manico
+- Postman
+- Kindle
+- zoom.us
 - PopClip
 - Paste
-- ~~CheatSheet~~
-- ~~Karabiner-Elements~~
-- ~~Skitch~~
-- ~~1Password~~
-- OBS
-- ~~TeamViewer~~
-- zoom.us
-- Sip
+- Sketch
 - Bear
-- Kindle
-- Irvue
-- 截图
-- Manico
-- Tayasui Sketches
-- MindNode5
 - XMind
+- Sublime Text
+- Irvue
+- MindNode5
+- Magnet
+- MockingBot
+- Sourcetree
+- SketchBook
+- CheatSheet
+- Skitch
+- 1Password
+- TeamViewer
+- Dash
+- CodeRunner3
+- MWeb
+- Pocket
+- Termius
+- Tayasui Sketches
+- GitBook Editor
+- ~~Lanan~~(has been replaced by **ClashX**)
