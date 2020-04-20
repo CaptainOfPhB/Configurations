@@ -15,7 +15,7 @@
 - Sougou Input: input source
 - Karabiner: keyboard modifier
 - ClashX: VPN client
-- ShdowsocksX-NG: VPN client for spare
+- ShdowsocksX-NG: VPN client for backup
 - Unsplash: Wallpaper client
 - Spectacle: Mac window management
 
