@@ -22,7 +22,9 @@ source $ZSH/oh-my-zsh.sh
 
 alias cat="bat"
 alias ys="yarn start"
+alias vs="vi ~/.zshrc"
 alias pc="proxychains4"
+alias ss="source ~/.zshrc"
 alias push="ga . && gc -m update && gp"
 
 source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
