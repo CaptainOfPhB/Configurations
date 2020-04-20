@@ -21,6 +21,7 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 alias cat="bat"
+alias ys="yarn start"
 alias pc="proxychains4"
 alias push="ga . && gc -m update && gp"
 
