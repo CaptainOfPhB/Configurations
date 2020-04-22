@@ -16,6 +16,7 @@
 - yarn
 - tree
 - autojump
+- asciinema
 - proxychains-ng
 - zsh-syntax-highlighting
 
