@@ -7,6 +7,7 @@
 ## from command line
 
 - Zsh
+- zprezto
 - SpaceVim
 
 ## **brew** package
