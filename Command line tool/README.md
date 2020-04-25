@@ -17,10 +17,13 @@
 - yarn
 - tree
 - tldr
-- neovim
+- archey
+- thefuck
+- neovim(nvim)
 - autojump
 - asciinema
 - proxychains-ng
+- the_silver_searcher(ag)
 - zsh-syntax-highlighting
 
 ## **node** package
