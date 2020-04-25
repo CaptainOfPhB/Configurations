@@ -17,6 +17,7 @@
 - yarn
 - tree
 - tldr
+- httpie
 - archey
 - thefuck
 - neovim(nvim)
