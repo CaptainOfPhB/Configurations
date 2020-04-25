@@ -16,6 +16,7 @@
 - bat
 - yarn
 - tree
+- tldr
 - autojump
 - asciinema
 - proxychains-ng
