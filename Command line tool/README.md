@@ -14,10 +14,11 @@
 
 - fzf
 - bat
+- exa
 - yarn
 - tree
 - tldr
-- httpie
+- httpie(http)
 - archey
 - thefuck
 - neovim(nvim)
