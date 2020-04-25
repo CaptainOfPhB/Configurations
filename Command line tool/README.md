@@ -17,6 +17,7 @@
 - yarn
 - tree
 - tldr
+- neovim
 - autojump
 - asciinema
 - proxychains-ng
