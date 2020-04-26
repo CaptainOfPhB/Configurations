@@ -30,6 +30,7 @@
 - OBS
 - Jietu
 - 字由
+- Vanilla
 - Shimo
 - Typora
 - Manico
