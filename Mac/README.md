@@ -38,9 +38,11 @@
 - zoom.us
 - PopClip
 - Paste
+- HelloFont
 - Sketch
 - Bear
 - XMind
+- iStat
 - Sublime Text
 - Irvue
 - MindNode5
@@ -49,7 +51,9 @@
 - Sourcetree
 - SketchBook
 - CheatSheet
+- AppCleaner
 - Skitch
+- cDock 3
 - 1Password
 - TeamViewer
 - Dash
