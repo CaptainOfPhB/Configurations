@@ -25,6 +25,7 @@
 - QQ
 - Sip
 - WPS
+- f.lux
 - iShot
 - OBS
 - Jietu
