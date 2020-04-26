@@ -7,6 +7,7 @@
 - NeteaseMusic
 - WeChat
 - DingTalk
+- iRightMouse
 - Dropbox: cloud disk
 - Alfred: search everywhere
 - iTerm2: macOS Terminal Replacement
