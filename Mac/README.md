@@ -29,6 +29,7 @@
 - iShot
 - OBS
 - Jietu
+- 字由
 - Shimo
 - Typora
 - Manico
