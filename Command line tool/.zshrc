@@ -20,7 +20,6 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
-alias cat="bat"
 alias ys="yarn start"
 alias vs="vi ~/.zshrc"
 alias pc="proxychains4"
