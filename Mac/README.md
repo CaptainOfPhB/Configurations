@@ -25,6 +25,7 @@
 - QQ
 - Sip
 - WPS
+- iShot
 - OBS
 - Jietu
 - Shimo
@@ -56,4 +57,5 @@
 - Termius
 - Tayasui Sketches
 - GitBook Editor
+- 火萤视频桌面
 - ~~Lanan~~(has been replaced by **ClashX**)
