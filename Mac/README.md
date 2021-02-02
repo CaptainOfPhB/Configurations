@@ -4,10 +4,15 @@
 - Webstorm
 - VSCode
 - QQMusic
-- NeteaseMusic
 - WeChat
+- PopClip
+- Paste
+- Typro
+- Termius
+- CheatSheet
 - DingTalk
 - iRightMouse
+- Dato: MacOS calendar
 - Dropbox: cloud disk
 - Alfred: search everywhere
 - iTerm2: macOS Terminal Replacement
@@ -17,8 +22,8 @@
 - Karabiner: keyboard modifier
 - ClashX: VPN client
 - ShdowsocksX-NG: VPN client for backup
-- Unsplash: Wallpaper client
 - Spectacle: Mac window management
+- AltTab: Windows’s “alt-tab” window switcher to macOS.
 
 ## Optional
 
@@ -66,3 +71,11 @@
 - GitBook Editor
 - 火萤视频桌面
 - ~~Lanan~~(has been replaced by **ClashX**)
+- Unsplash: Wallpaper client
+- NeteaseMusic
+- Hidden Bar
+- BetterAndBetter
+- IPic
+- Better Menubar
+- Sublime Merge
+- Contexts
