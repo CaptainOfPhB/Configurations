@@ -1,5 +1,12 @@
-## In Use
-
+- Dark Reader
+- Enhanced GitHub
+- File icons for GitHub and GitLab
+- GitHub code folding
+- GitHub hovercard
+- Gitpod
+- Markdow Menu for GitHub
+- Open in CodeSandeBox
+- OneTab
 - Adblock
 - React Developer Tools
 - MobX Developer Tools
@@ -9,7 +16,4 @@
 - JSON Viewer
 - Octotree
 - Vimium
-
-## Optional
-
-- Pocket
+- Save to Pocket
