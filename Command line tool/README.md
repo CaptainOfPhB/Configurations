@@ -12,6 +12,7 @@
 
 ## **brew** package
 
+- gh
 - fzf
 - bat
 - exa
@@ -30,6 +31,5 @@
 
 ## **node** package
 - git-open
-- http-server
-- server(**http-server** for backup)
+- http-server/server
 - terminal-translate
