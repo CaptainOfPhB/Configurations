@@ -7,6 +7,7 @@
 ## from command line
 
 - Zsh
+- fish shell
 - zprezto
 - SpaceVim
 
