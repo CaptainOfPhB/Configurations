@@ -1,19 +1,22 @@
-- Dark Reader
-- Enhanced GitHub
-- File icons for GitHub and GitLab
-- GitHub code folding
-- GitHub hovercard
-- Gitpod
-- Markdow Menu for GitHub
-- Open in CodeSandeBox
-- OneTab
-- Adblock
-- React Developer Tools
-- MobX Developer Tools
-- Redux DevTools
-- Material DevTools Setting
-- Juejin
-- JSON Viewer
-- Octotree
-- Vimium
-- Save to Pocket
+# Chrome extension
+
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en)
+- [Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en)
+- [File icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en)
+- [GitHub code folding](https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf?hl=en)
+- [GitHub hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk?hl=en)
+- [Gitpod](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en)
+- [Markdown Menu for GitHub](https://chrome.google.com/webstore/detail/markdown-menu-for-github/jekgocfoijmbgcjejohdgmojaejofdpo?hl=en)
+- [CodeSandeBox](https://chrome.google.com/webstore/detail/codesandbox/hdidglkcgdolpoijdckmafdnddjoglia?hl=en)
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
+- [AdBlock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [MobX Developer Tools](https://chrome.google.com/webstore/detail/mobx-developer-tools/pfgnfdagidkfgccljigdamigbcnndkod?hl=en)
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+- [Material DevTools Theme Collection](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo?hl=en)
+- [Juejin](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?hl=en)
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en)
+- [Octotree - GitHub code tree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en)
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)
+- [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en)
+- [daily.dev](https://chrome.google.com/webstore/detail/dailydev-all-in-one-codin/jlmpjdjjbgclbocgajdjefcidcncaied/related?hl=en)
