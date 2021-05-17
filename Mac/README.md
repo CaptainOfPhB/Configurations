@@ -1,6 +1,7 @@
-## Must be installed
+# Mac app
 
 - Chrome
+- Edge
 - Webstorm
 - VSCode
 - QQMusic
@@ -12,51 +13,39 @@
 - CheatSheet
 - DingTalk
 - iRightMouse
-- Dato: MacOS calendar
-- Dropbox: cloud disk
-- Alfred: search everywhere
-- iTerm2: macOS Terminal Replacement
-- Spark: smart mail client
-- TickTick: todo list, task and schedule management
-- Sougou Input: input source
-- Karabiner: keyboard modifier
-- ClashX: VPN client
-- ShdowsocksX-NG: VPN client for backup
-- Spectacle: Mac window management
-- AltTab: Windows’s “alt-tab” window switcher to macOS.
-
-## Optional
-
+- Dato
+- Dropbox
+- Alfred
+- iTerm2
+- Spark
+- TickTick
+- Sougou Input
+- Karabiner
+- ClashX
+- ShdowsocksX-NG
+- Spectacl
+- AltTab
 - QQ
 - Sip
 - WPS
 - f.lux
-- iShot
-- OBS
-- Jietu
-- 字由
-- Vanilla
 - Shimo
 - Typora
 - Manico
 - Postman
 - Kindle
-- zoom.us
+- Zoom
 - PopClip
 - Paste
-- HelloFont
 - Sketch
 - Bear
 - XMind
-- iStat
 - Sublime Text
 - Irvue
 - MindNode5
 - Magnet
-- MockingBot
 - Sourcetree
 - SketchBook
-- CheatSheet
 - AppCleaner
 - Skitch
 - cDock 3
@@ -66,16 +55,14 @@
 - CodeRunner3
 - MWeb
 - Pocket
-- Termius
 - Tayasui Sketches
-- GitBook Editor
-- 火萤视频桌面
-- ~~Lanan~~(has been replaced by **ClashX**)
-- Unsplash: Wallpaper client
+- Unsplash
 - NeteaseMusic
 - Hidden Bar
 - BetterAndBetter
-- IPic
+- iPic
 - Better Menubar
 - Sublime Merge
 - Contexts
+- Notion
+- Xnip
