@@ -1,36 +1,30 @@
-## from installer
+# Command line tool
 
-- git
-- node(update via brew)
-- npm(automatic install via node, update via itself)
-
-## from command line
-
-- Zsh
-- fish shell
-- zprezto
-- SpaceVim
-
-## **brew** package
-
-- gh
-- fzf
-- bat
-- exa
-- yarn
-- tree
-- tldr
-- httpie(http)
-- archey
-- thefuck
-- neovim(nvim)
-- autojump
-- asciinema
-- proxychains-ng
-- the_silver_searcher(ag)
-- zsh-syntax-highlighting
-
-## **node** package
-- git-open
-- http-server/server
-- terminal-translate
+- [git](https://git-scm.com/)
+- [node](https://nodejs.org/en/)
+- [Zsh](https://ohmyz.sh/)
+- [prezto](https://github.com/sorin-ionescu/prezto)
+- [fish shell](https://fishshell.com/)
+- [SpaceVim](https://spacevim.org/)
+- [gh](https://cli.github.com/)
+- [fzf](https://github.com/junegunn/fzf)
+- [bat](https://github.com/sharkdp/bat)
+- [exa](https://the.exa.website/)
+- [yarn](https://yarnpkg.com/)
+- [tldr](https://tldr.sh/)
+- [httpie](https://httpie.io/)
+- [thefuck](https://github.com/nvbn/thefuck)
+- [neovim](https://neovim.io/)
+- [autojump](https://github.com/wting/autojump)
+- [asciinema](https://asciinema.org/)
+- [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+- [the_silver_searcher](https://geoff.greer.fm/ag/)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [zsh-completions](https://github.com/zsh-users/zsh-completions)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [git-open](https://github.com/paulirish/git-open)
+- [nrm](https://github.com/Pana/nrm)
+- [n](https://github.com/tj/n)
+- [serve](https://github.com/vercel/serve)
+- [terminal-translate](https://github.com/ShanaMaid/terminal-translate)
+- [fanyi](https://github.com/afc163/fanyi)
