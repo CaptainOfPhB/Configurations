@@ -6,12 +6,16 @@ ZSH_THEME="robbyrussell"
 
 HIST_STAMPS="mm/dd/yyyy"
 
- plugins=( 
+plugins=(
+  git
+  npm
+  node
+  autojump
   zsh-completions 
   zsh-autosuggestions 
   zsh-syntax-highlighting 
 ) 
-  
+
 source $ZSH/oh-my-zsh.sh
 
 alias c="clear"
@@ -23,6 +27,9 @@ alias proxy="export https_proxy=http://127.0.0.1:1087 http_proxy=http://127.0.0.
 
 # load thefuck
 eval $(thefuck --alias)
+
+# load autojump
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
 
 # load fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
