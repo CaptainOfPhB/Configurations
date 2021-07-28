@@ -3,8 +3,9 @@
 # Usage
 # 1. Put this script to anywhere you want, for example, your current user directory(touch ~/auto_merge.sh).
 # 2. Add command alias to your .bashrc/.zshrc(alias am="bash ~/auto_merge.sh").
-# 3. Reload your .bashrc/.zshrc(source ~/.zshrc or source ~/.bashrc), then you can use the command 'am'.
-# 4. You can use 'am' command like `am target_branch "this is commit message"`
+# 3. Reload your .bashrc/.zshrc(source ~/.zshrc or source ~/.bashrc), so you can use the command 'am'.
+# 4. You can use 'am' command like `am target_branch "this is commit message"`.
+# 5. The default target_branch is 'staging', and the default commit message is 'update'. 
 
 error_message="not a git repo, fuck u"
 
