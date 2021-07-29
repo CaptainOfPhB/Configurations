@@ -48,6 +48,8 @@ if [ $? == 1 ]; then
   exit 1
 fi
 
+git push
+
 git checkout $current_branch
 if [ $? == 1 ]; then
   exit 1
