@@ -28,3 +28,4 @@
 - [serve](https://github.com/vercel/serve)
 - [terminal-translate](https://github.com/ShanaMaid/terminal-translate)
 - [fanyi](https://github.com/afc163/fanyi)
+- [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
