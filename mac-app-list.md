@@ -1,0 +1,22 @@
+# Mac App List
+
+- Chrome
+- Webstorm
+- VSCode
+- QQMusic
+- WeChat
+- PopClip
+- Paste
+- Dato
+- Alfred
+- iTerm2
+- Spark
+- TickTick
+- Sougou Input
+- Karabiner
+- ShdowsocksX-NG
+- Spectacl
+- AltTab
+- 1Password
+- Notion
+- Xnip
