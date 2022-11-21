@@ -20,3 +20,5 @@
 - 1Password
 - Notion
 - Xnip
+- aDrive
+- Apifox
