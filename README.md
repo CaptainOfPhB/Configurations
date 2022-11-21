@@ -11,3 +11,4 @@ The following items should be checked against existing records before migrating 
 - Mac apps
 - Cli tools
 - Shadowsocks user rules for PAC
+- Backup private key under ~/.ssh dir
