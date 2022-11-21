@@ -22,3 +22,5 @@
 - Xnip
 - aDrive
 - Apifox
+- Telegram
+- Discord
