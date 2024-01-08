@@ -1,3 +1,7 @@
+> [!CAUTION]
+> 
+> All configurations are managed and synced by [chezmoi](https://www.chezmoi.io/), so the repo is no longer maintained.
+
 # Configurations
 
 A collection of tool list and configurations.
